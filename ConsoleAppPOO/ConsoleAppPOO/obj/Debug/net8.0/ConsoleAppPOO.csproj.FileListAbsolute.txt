@@ -1,0 +1,14 @@
+C:\Users\Vinícius Terra\source\repos\ConsoleAppPOO\ConsoleAppPOO\bin\Debug\net8.0\ConsoleAppPOO.exe
+C:\Users\Vinícius Terra\source\repos\ConsoleAppPOO\ConsoleAppPOO\bin\Debug\net8.0\ConsoleAppPOO.deps.json
+C:\Users\Vinícius Terra\source\repos\ConsoleAppPOO\ConsoleAppPOO\bin\Debug\net8.0\ConsoleAppPOO.runtimeconfig.json
+C:\Users\Vinícius Terra\source\repos\ConsoleAppPOO\ConsoleAppPOO\bin\Debug\net8.0\ConsoleAppPOO.dll
+C:\Users\Vinícius Terra\source\repos\ConsoleAppPOO\ConsoleAppPOO\bin\Debug\net8.0\ConsoleAppPOO.pdb
+C:\Users\Vinícius Terra\source\repos\ConsoleAppPOO\ConsoleAppPOO\obj\Debug\net8.0\ConsoleAppPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinícius Terra\source\repos\ConsoleAppPOO\ConsoleAppPOO\obj\Debug\net8.0\ConsoleAppPOO.AssemblyInfoInputs.cache
+C:\Users\Vinícius Terra\source\repos\ConsoleAppPOO\ConsoleAppPOO\obj\Debug\net8.0\ConsoleAppPOO.AssemblyInfo.cs
+C:\Users\Vinícius Terra\source\repos\ConsoleAppPOO\ConsoleAppPOO\obj\Debug\net8.0\ConsoleAppPOO.csproj.CoreCompileInputs.cache
+C:\Users\Vinícius Terra\source\repos\ConsoleAppPOO\ConsoleAppPOO\obj\Debug\net8.0\ConsoleAppPOO.dll
+C:\Users\Vinícius Terra\source\repos\ConsoleAppPOO\ConsoleAppPOO\obj\Debug\net8.0\refint\ConsoleAppPOO.dll
+C:\Users\Vinícius Terra\source\repos\ConsoleAppPOO\ConsoleAppPOO\obj\Debug\net8.0\ConsoleAppPOO.pdb
+C:\Users\Vinícius Terra\source\repos\ConsoleAppPOO\ConsoleAppPOO\obj\Debug\net8.0\ConsoleAppPOO.genruntimeconfig.cache
+C:\Users\Vinícius Terra\source\repos\ConsoleAppPOO\ConsoleAppPOO\obj\Debug\net8.0\ref\ConsoleAppPOO.dll
